@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on [E-commerce with Next.js](https://github.com/shubhamupadhyaydeveloper/nextecommerce.git)
 
-- 🌱 I’m currently learning **Docker and Python**
+- 🌱 I’m currently learning **Docker**
 
-- 💬 Ask me about **Javascript,Typescript**
+- 💬 Ask me about **Javascript,Typescript,Python**
 
 - 📫 How to reach me **shubhamwork48@gmail.com**
 
